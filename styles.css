@@ -10,7 +10,7 @@ h1 {
 body{
     background-color:rgb(206,227,219);
 }
-#gif_one {
+.gif {
     border-style: solid;
     border-color: black;
     border-width: 10px;
