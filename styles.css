@@ -15,7 +15,8 @@ body{
     border-color: black;
     border-width: 10px;
 }
-h2 {
+
+.options {
     display:inline;
     padding-left: 50px;
     padding-right: 50px;
