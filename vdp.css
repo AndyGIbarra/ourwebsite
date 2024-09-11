@@ -1,6 +1,13 @@
 h1 {
     color: black;
 }
+
+button{
+  margin: 20px 50px 0px 50px;
+  padding: 0px 50px 0px 50px;
+  font-size: 10px;
+}
+
 .content {
     margin: auto;
     width: 50%;
@@ -10,6 +17,9 @@ h1 {
 body{
     background-image: url(./Images/stawberrybackground.jpg);
     background-size: 50%;
+    margin: auto;
+    width: 100%;
+    text-align: center;
 }
 .gif {
     border-style: solid;
@@ -23,20 +33,15 @@ body{
     display:inline;
     padding-left: 50px;
     padding-right: 50px;
+    font-size: 20px;
 }
+
 #yes {
     background-color: rgb(0, 202, 0);
 }
+
 #no {
     background-color: rgb(220, 0, 0);
-}
-
-h4 {
-    margin: 0%;
-    padding: 0px;
-}
-h6 {
-  margin: 0%;
 }
 
 * {box-sizing:border-box}
